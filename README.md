@@ -1,2 +1,2 @@
 # JavaScript-basics
-Basic codes in JavaScript based on Gustav0 Guanabara classes and some classes in Alura
+Basic codes in JavaScript based on Gustavo Guanabara classes and some classes in Alura

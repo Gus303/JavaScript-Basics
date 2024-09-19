@@ -10,3 +10,8 @@ const absence = 5;
 else{
     console.log('You passed')
 }
+
+//true && true = true
+//true && false = false
+//false && true	= false
+//false && false = false

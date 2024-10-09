@@ -1,15 +1,15 @@
-function calculadoraSimples(a, b, operacao) {
-    let resultado;
-    if (operacao === 'soma') {
-        resultado = a + b;
-    } else if (operacao === 'subtracao') {
-        resultado = a - b;
-    } else if (operacao === 'multiplicacao') {
-        resultado = a * b;
-    } else if (operacao === 'divisao') {
-        resultado = a / b;
+function simpleCalculator(a, b, operation) {
+    let calcResult;
+    if (operation === 'plus') {
+        calcResult = a + b;
+    } else if (operation === 'minus') {
+        calcResult = a - b;
+    } else if (operation === 'times') {
+        calcResult = a * b;
+    } else if (operation === 'divided') {
+        calcResult = a / b;
     } else {
-        resultado = 'Operação não reconhecida';
+        calcResult = 'Operação não reconhecida';
     }
-    return resultado;
+    return calcResult;
 }

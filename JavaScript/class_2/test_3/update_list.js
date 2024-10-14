@@ -1,1 +1,2 @@
-const studentList = []
+const studentList = ['John', 'Ann', 'Carl', 'Laura', 'Alice', 'Leonard'];
+

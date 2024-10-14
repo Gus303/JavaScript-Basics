@@ -1,4 +1,4 @@
-const studentList = ['João', 'Juliana', 'Ana', 'Caio', 'Lara', 'Marjorie', 'Guilherme', 'Aline', 'Fabiana', 'André', 'Carlos', 'Paulo', 'Bia', 'Vivian', 'Isabela', 'Vinícius', 'Renan', 'Renata', 'Daisy', 'Camilo'];
+const studentList = ['John', 'Juli', 'Ann', 'Carl', 'Louise', 'Marjorie', 'Alex', 'Alice', 'Daphine', 'Andy', 'Joe', 'Paul', 'Bia', 'Vivian', 'Isabela', 'Vinícius', 'Renan', 'Renata', 'Daisy', 'Camilo'];
 
 const classroom1 = studentList.slice(0, studentList.length/2);
 const classroom2 = studentList.slice(studentList.length/2);

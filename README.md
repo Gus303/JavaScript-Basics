@@ -1,6 +1,6 @@
 # JavaScript Basic Project
 
-This is a simple JavaScript project to demonstrate basic functionality.
+This is a simple JavaScript project to demonstrate basic functionalities.
 
 ## Inspiration
 
